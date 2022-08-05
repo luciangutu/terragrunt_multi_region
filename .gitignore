@@ -1,0 +1,12 @@
+.DS_Store
+.idea/
+__pycache__
+.terragrunt-cache/
+.terraform/
+.terraform.lock.hcl
+*.zip
+python-tmp/
+.aws-sam/
+.vs/
+.pytest_cache/
+**/terragrunt-debug.tfvars.json
